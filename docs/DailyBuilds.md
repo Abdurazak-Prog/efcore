@@ -1,6 +1,6 @@
 # Daily Builds
 
-## Quick-start
+## Quick-start.....
 
 Create a file called "NuGet.config" with the following contents and put it next to your solution or csproj file:
 
